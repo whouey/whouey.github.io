@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Whouey's
+subtitle: working diary log
+description: a place to keep some notes of working.
+keywords: 
+author: Whouey Lai
+language: zh-tw, en
+timezone: Asia/Taipei
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -21,7 +21,7 @@ pretty_urls:
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
-source_dir: source
+source_dir: source 
 public_dir: public
 tag_dir: tags
 archive_dir: archives
